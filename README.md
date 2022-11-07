@@ -2,9 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project was bootstrapped with Create React App.
-
-this project is hosted on Vercel. Access at: https://to-do-list-tau-seven.vercel.app/
+This project is hosted on Vercel. Access at: https://to-do-list-tau-seven.vercel.app/
 
 ## Available Scripts
 
